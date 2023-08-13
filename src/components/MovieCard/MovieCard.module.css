@@ -1,0 +1,20 @@
+.MovieCard {
+  width: 20rem;
+  height: 30rem;
+  text-align: center;
+}
+.cardImgBox {
+  width: 100%;
+}
+.cardImg {
+  width: 100%;
+}
+
+.movieInfo {
+  padding: 10px;
+}
+
+.cardBottom {
+  display: flex;
+  justify-content: space-between;
+}
